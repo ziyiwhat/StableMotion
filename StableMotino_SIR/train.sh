@@ -3,7 +3,7 @@ LAUNCH_TRAINING(){
 # accelerate config: default
 tracker_project_name='DIR-D-zero2-plus-fp32-perceptualLoss'
 pretrained_model_name_or_path='stabilityai/stable-diffusion-2'
-flow_datapath='./MDM-2step-training/pred_flow'
+flow_datapath='./MDM_Flow'
 condition_datapath='./DIR-D/training/input'
 mask_datapath='./DIR-D/training/mask'
 gt_datapath='./DIR-D/training/gt'
