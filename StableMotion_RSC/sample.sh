@@ -1,0 +1,1 @@
+python sample.py --project_dir results --num 1
