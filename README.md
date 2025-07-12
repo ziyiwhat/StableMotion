@@ -1,5 +1,4 @@
-# StableMotion: Repurposing Diffusion-Based Image Priors for Motion Estimation
-This is the official repo for paper [StableMotion: Repurposing Diffusion-Based Image Priors for Motion Estimation](https://www.arxiv.org/abs/2505.06668)
+# StableMotion: One Step Motion Estimation with Diffusion Prior
 
 ## Setup
 0. Clone this repo.
